@@ -6,9 +6,16 @@ Arguably one of the best in the market, this bot ensures your coin pushes the li
 
 **TELEGRAM** for contact & **POC**(Proof of Concept): [@benoriz0](https://t.me/benoriz0)
 
-**TWO AVAILABLE VERSIONS:**
+**THREE AVAILABLE VERSIONS:**
 1. JITO Volume Maker
 2. Non-JITO Volume Maker(lower fees)
+3. Natural Volume Maker(JITO)
+
+1. Spams up to 10 swaps per second(you can set a higher delay)
+2. Does 1-2 txs per second, pretty slow
+3. Buys random SOL amount (min/max) with random delay(min/max). Each buy happens from a different keypair. Option to sell all wallets or individual wallets
+
+   
 
 **Other tools**
 - Solana JITO Bundler
@@ -49,7 +56,7 @@ Configure your RPC and wallet details in **config.json.**
 
 Adjust your trading parameters in **config.ts** (loop time interval, amount, token address)
 
-Run the Solana Volume Bot V2 and monitor the performance on DexScreener, DexTools, etc.
+Run the Solana Volume Bot V3 and monitor the performance on DexScreener, DexTools, etc.
 
 ## Support
 For support, feature requests, or bug reporting, please open an issue in the GitHub issue tracker associated with this repository.
