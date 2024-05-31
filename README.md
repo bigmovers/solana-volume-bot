@@ -11,9 +11,10 @@ Arguably one of the best in the market, this bot ensures your coin pushes the li
 2. Non-JITO Volume Maker(lower fees)
 3. Natural Volume Maker(JITO)
 
-1. Spams up to 10 swaps per second(you can set a higher delay)
-2. Does 1-2 txs per second, pretty slow
-3. Buys random SOL amount (min/max) with random delay(min/max). Each buy happens from a different keypair. Option to sell all wallets or individual wallets
+**DESCRIPTIONS FOR EACH VERSION ->**
+1. Spams up to 10 swaps per second(you can set a higher delay) - extremly fast  (10 SOL)
+2. Does 1-2 txs per second, pretty slow.  (10 SOL)
+3. Buys random SOL amount (min/max) with random delay(min/max). Each buy happens from a different keypair. Option to sell all wallets or individual wallets (20 SOL)
 
    
 
