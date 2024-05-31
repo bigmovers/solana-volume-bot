@@ -19,9 +19,9 @@ Arguably one of the best in the market, this bot ensures your coin pushes the li
    
 
 **Other tools**
-- Solana JITO Bundler
-- Pump.Fun Bundler(25 buys)
-- Buyers/Holders Maker
+- [Solana JITO Bundler](https://github.com/bigmovers/solana-bundle)
+- [Pump.Fun Bundler(25 buys)](https://github.com/bigmovers/pumpfun-bundler)
+- [Buyers/Holders Maker](https://github.com/bigmovers/solana-maker)
 - Non-JITO Bundler(3 buys)
 - LP Manager
 - Telegram Cloner
