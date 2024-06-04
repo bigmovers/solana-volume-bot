@@ -4,7 +4,11 @@ An advanced and highly efficient tool designed for enhancing 'naturally' the tra
 
 Arguably one of the best in the market, this bot ensures your coin pushes the limits on trending across various platforms like DexScreener, BirdEye, and numerous Telegram shitcoin groups.
 
-**TELEGRAM** for contact & **POC**(Proof of Concept): [@benoriz0](https://t.me/benoriz0)
+**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**:  
+
+[benorizz0](https://t.me/benorizz0) **(ACTIVE)**
+
+[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
 
 **THREE AVAILABLE VERSIONS:**
 1. JITO Volume Maker
