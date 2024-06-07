@@ -1,4 +1,5 @@
 # 🚀 Solana Volume Bot V3 🚀
+*Now supporting pump.fun pools and Raydium Concentrated Liquidity*
 
 An advanced and highly efficient tool designed for enhancing 'naturally' the trading volume of solana shitcoins. 
 
@@ -8,7 +9,7 @@ Arguably one of the best in the market, this bot ensures your coin pushes the li
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
 
-[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
+~@benoriz0~ (SUSPENDED TEMPORARY)
 
 **THREE AVAILABLE VERSIONS:**
 1. JITO Volume Maker
