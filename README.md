@@ -5,6 +5,12 @@ An advanced and highly efficient tool designed for enhancing 'naturally' the tra
 
 Arguably one of the best in the market, this bot ensures your coin pushes the limits on trending across various platforms like DexScreener, BirdEye, and numerous Telegram shitcoin groups.
 
+
+
+https://github.com/bigmovers/solana-volume-bot/assets/165174061/185b47cb-b660-4353-80c8-cfcade120bb3
+
+
+
 **TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**:  
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
