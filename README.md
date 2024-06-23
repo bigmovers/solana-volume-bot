@@ -18,9 +18,9 @@ https://github.com/bigmovers/solana-volume-bot/assets/165174061/185b47cb-b660-43
 ~@benoriz0~ (SUSPENDED TEMPORARY)
 
 **THREE AVAILABLE VERSIONS:**
-1. JITO Volume Maker
-2. Non-JITO Volume Maker(lower fees)
-3. Natural Volume Maker(JITO)
+1. JITO Volume Maker (VIDEO demo available above)
+2. Non-JITO Volume Maker(lower fees) (ask me for live demo)
+3. Natural Volume Maker(JITO) (ask me for live demo)
 
 **DESCRIPTIONS FOR EACH VERSION ->**
 1. Spams up to 10 swaps per second(you can set a higher delay) - extremly fast  (10 SOL)
